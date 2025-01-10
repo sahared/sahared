@@ -47,6 +47,15 @@ Eclipse, IntelliJ, Visual Studio, Jira, Bitbucket
 
 ---
 
+## My Stats
+<p>
+<a href="https://github.com/Aditya-Pimpalkar">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sahared&theme=radical&layout=compact&exclude_lang=java+r" />
+</a>
+</p>
+
+---
+
 ## 🌐 Connect With Me  
 
 - 📫 Email: [sahare.d@northeastern.edu](mailto:sahare.d@northeastern.edu)  
