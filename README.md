@@ -60,7 +60,7 @@ Eclipse, IntelliJ, Visual Studio, Jira, Bitbucket
 
 - 📫 Email: [sahare.d@northeastern.edu](mailto:sahare.d@northeastern.edu)  
 - 💼 LinkedIn: [linkedin.com/in/dikshasahare](https://in.linkedin.com/in/dikshasahare)  
-- 🐙 GitHub: [github.com/saharediksha](https://github.com/sahared)  
+- 🐙 GitHub: [github.com/sahared](https://github.com/sahared)  
 
 ---
 
