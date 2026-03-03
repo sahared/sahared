@@ -87,9 +87,11 @@ I enjoy designing clean APIs, building reliable backend services, and exploring 
 ## 📊 My GitHub Stats  
 
 <p>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=sahared&show_icons=true&theme=radical" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahared&layout=compact&theme=radical" />
+<a href="https://github.com/sahared">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sahared&theme=radical&layout=compact&exclude_lang=java+r" />
+</a>
 </p>
+
 
 ---
 
