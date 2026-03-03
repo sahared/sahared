@@ -1,57 +1,94 @@
 # 👋 Hi, I'm Diksha Sahare  
 
-Welcome to my GitHub! I'm a passionate **Software Engineer** with expertise in **full-stack development**, **Salesforce**, and building innovative solutions that make a real-world impact. I have a strong foundation in both academic and professional settings, with hands-on experience in **Java**, **Spring Boot**, and **REST APIs**.  
+Welcome to my GitHub! I'm a passionate **Software Development Engineer** building scalable systems across **Backend Engineering, Cloud, and Applied AI**.
+
+I enjoy designing clean APIs, building reliable backend services, and exploring how AI can enhance real-world software systems — while staying grounded in strong engineering fundamentals.
 
 ---
 
 ## 🌟 About Me  
 
-- 🎓 Pursuing my **Master’s in Information Systems** at **Northeastern University** (Expected May 2026).  
-- 💼 Former **Application Development Analyst** at **Accenture**, specializing in **Full stack java development** and **Salesforce development**.  
-- 🌱 I’m currently exploring advanced **web design**, **user experience engineering**, and cloud technologies like **AWS**.  
+- 🎓 Pursuing my **Master’s in Information Systems** at **Northeastern University** (Expected Dec 2026).  
+- 💼 Former **Application Development Analyst** at **Accenture**, specializing in **Java backend systems** and **Salesforce development**.  
+- ☁️ Strong interest in **Cloud-native architecture and distributed systems**.  
+- 🤖 Exploring **LLM integration, automation workflows, and AI-enabled backend systems**.  
 
 ---
 
-## 🚀 Skills  
+## 🚀 Tech Stack  
 
-### **Programming Languages**  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  ![PL/SQL](https://img.shields.io/badge/PL%2FSQL-%234479A1.svg?style=for-the-badge&logo=oracle&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+### 💻 Programming Languages  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### **Frameworks & Technologies**  
-![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)  ![Hibernate](https://img.shields.io/badge/Hibernate-%23222222.svg?style=for-the-badge&logo=hibernate&logoColor=white)  ![REST APIs](https://img.shields.io/badge/REST%20APIs-%231572B6.svg?style=for-the-badge&logo=api&logoColor=white)  ![Salesforce](https://img.shields.io/badge/Salesforce-%2300A1E0.svg?style=for-the-badge&logo=salesforce&logoColor=white)  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)  
+---
 
-### **Databases**  
-![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
+### ⚙️ Backend & Frameworks  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-%23222222.svg?style=for-the-badge&logo=hibernate&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-%231572B6.svg?style=for-the-badge)
 
-### **Tools**  
-![Eclipse](https://img.shields.io/badge/Eclipse-%232C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white)  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)  ![Jira](https://img.shields.io/badge/Jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white)  ![Bitbucket](https://img.shields.io/badge/Bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)  
+---
 
-### **Certifications**  
-- ![Salesforce Omnistudio Developer](https://img.shields.io/badge/Salesforce-Omnistudio%20Developer-%2300A1E0?style=for-the-badge&logo=salesforce&logoColor=white)  
-- ![Salesforce Certified Administrator](https://img.shields.io/badge/Salesforce-Certified%20Administrator-%2300A1E0?style=for-the-badge&logo=salesforce&logoColor=white)  
-- ![Salesforce Certified Platform Developer](https://img.shields.io/badge/Salesforce-Certified%20Platform%20Developer-%2300A1E0?style=for-the-badge&logo=salesforce&logoColor=white)  
+### ☁️ Cloud & DevOps  
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-%23000000.svg?style=for-the-badge)
+
+---
+
+### 🤖 AI & Automation  
+![LLM Integration](https://img.shields.io/badge/LLM-Integration-blue?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-purple?style=for-the-badge)
+![Playwright](https://img.shields.io/badge/Playwright-%232EAD33.svg?style=for-the-badge&logo=playwright&logoColor=white)
+![Automation](https://img.shields.io/badge/Workflow-Automation-orange?style=for-the-badge)
+
+---
+
+### 🗄 Databases  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
+
+---
+
+## 🏆 Certifications  
+
+![Salesforce Omnistudio Developer](https://img.shields.io/badge/Salesforce-Omnistudio_Developer-%2300A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Salesforce Certified Administrator](https://img.shields.io/badge/Salesforce-Certified_Administrator-%2300A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![Salesforce Platform Developer](https://img.shields.io/badge/Salesforce-Platform_Developer-%2300A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
 
 ## 💡 Professional Highlights  
 
 ### **Accenture | Application Development Analyst**  
-- Engineered a **Data Migration Web Tool**, boosting data transfer efficiency by 30%.  
-- Developed robust **Java Spring Boot** features and **REST APIs**, ensuring seamless user experience.  
-- Optimized database structures, improving query performance by 25%.  
-- Played dual roles as a **Salesforce Developer & Administrator**, enhancing business processes and system integration.  
+
+- Engineered a **Data Migration Web Tool**, improving transfer efficiency by 30%.  
+- Built scalable **Java Spring Boot services and REST APIs**.  
+- Optimized database queries, increasing performance by 25%.  
+- Worked across backend engineering and Salesforce environments in enterprise systems.  
 
 ### **AmpleSoftech Private Limited | Web Developer Intern**  
-- Designed a responsive web application for property searches, increasing mobile traffic by 20%.  
-- Created intuitive user interfaces that improved engagement across devices.  
+
+- Developed responsive web applications improving mobile engagement by 20%.  
+- Designed user-centric interfaces for better cross-device experience.  
 
 ---
 
-## My Stats
+## 📊 My GitHub Stats  
+
 <p>
-<a href="https://github.com/Aditya-Pimpalkar">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sahared&theme=radical&layout=compact&exclude_lang=java+r" />
-</a>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=sahared&show_icons=true&theme=radical" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahared&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -64,4 +101,4 @@ Welcome to my GitHub! I'm a passionate **Software Engineer** with expertise in *
 
 ---
 
-⭐️ **"Empowering innovation with technology, one project at a time."**  
+⭐️ *Building software that is scalable, reliable, and intelligently engineered.*
