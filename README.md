@@ -104,38 +104,6 @@ Key contributions:
 
 ---
 
-# 🚀 Selected Projects
-
-### CloudHealth — Cloud Native Backend Platform
-
-Node.js • PostgreSQL • AWS • Terraform • Docker
-
-- Built cloud-native backend API deployed on **auto-scaling EC2 infrastructure**
-- Designed **VPC networking, load balancing, and database connection pooling**
-- Implemented **CI/CD pipeline with GitHub Actions**
-- Added **CloudWatch monitoring and observability dashboards**
-
----
-
-### HomeBase — Property Management Platform
-
-Node.js • React • MongoDB • TypeScript
-
-- Built scalable backend API with **JWT authentication and role-based access**
-- Optimized MongoDB queries improving performance by **30%**
-- Implemented **real-time communication using WebSockets**
-
----
-
-### Finley — AI Financial Recommendation System
-
-Python • Flask • LangChain • GPT-4o-mini
-
-- Built **6-stage AI workflow pipeline** for financial recommendations
-- Implemented **multi-path validation architecture**
-- Achieved **92–95% recommendation consistency** through structured validation logic
-
----
 
 # 📊 GitHub Stats
 
