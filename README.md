@@ -1,90 +1,143 @@
-# 👋 Hi, I'm Diksha Sahare  
+# 👋 Hi, I'm Diksha Sahare
 
-Welcome to my GitHub! I'm a passionate **Software Development Engineer** building scalable systems across **Backend Engineering, Cloud, and Applied AI**.
+Software Development Engineer focused on building **scalable backend platforms, cloud-native systems, and reliable APIs**.
 
-I enjoy designing clean APIs, building reliable backend services, and exploring how AI can enhance real-world software systems — while staying grounded in strong engineering fundamentals.
+I bring **3+ years of professional experience at Accenture**, where I worked on enterprise backend platforms including **Identity & Access Management systems, regulated data pipelines, and high-reliability API services**.
 
----
-
-## 🌟 About Me  
-
-- 🎓 Pursuing my **Master’s in Information Systems** at **Northeastern University** (Expected Dec 2026).  
-- 💼 Former **Application Development Analyst** at **Accenture**, specializing in **Java backend systems** and **Salesforce development**.  
-- ☁️ Strong interest in **Cloud-native architecture and distributed systems**.  
-- 🤖 Exploring **LLM integration, automation workflows, and AI-enabled backend systems**.  
+Currently pursuing my **MS in Information Systems at Northeastern University (Dec 2026)** and expanding my work into **cloud infrastructure, distributed systems, and AI-enabled backend platforms**.
 
 ---
 
-## 🚀 Tech Stack  
+# 🌟 About Me
 
-### 💻 Programming Languages  
+- 💻 Backend Engineer with **3+ years industry experience**
+- 🎓 MS Information Systems — **Northeastern University**
+- ☁️ **AWS Certified Solutions Architect – Associate**
+- 🔧 Experience building **Java microservices, REST APIs, and enterprise integrations**
+- 🤖 Exploring **LLM-backed systems and intelligent automation**
+- ⚙️ Interested in **platform engineering, distributed systems, and reliability-critical software**
+
+I enjoy designing systems where **correctness, reliability, and observability matter as much as functionality.**
+
+---
+
+# 🧠 Engineering Focus
+
+- Backend Systems & API Design
+- Distributed Systems & System Design
+- Cloud-Native Architecture
+- Infrastructure as Code
+- Performance Optimization
+- Observability & Reliability Engineering
+- AI-Enabled Backend Systems
+
+---
+
+# 🚀 Tech Stack
+
+## 💻 Languages
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge)
 
 ---
 
-### ⚙️ Backend & Frameworks  
+## ⚙️ Backend & Frameworks
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-%23222222.svg?style=for-the-badge&logo=hibernate&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-%231572B6.svg?style=for-the-badge)
+![Express](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-%231572B6.svg?style=for-the-badge)
 
 ---
 
-### ☁️ Cloud & DevOps  
+## ☁️ Cloud & Infrastructure
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%23623CE4.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232088FF.svg?style=for-the-badge&logo=github-actions&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-%23000000.svg?style=for-the-badge)
 
 ---
 
-### 🤖 AI & Automation  
-![LLM Integration](https://img.shields.io/badge/LLM-Integration-blue?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-purple?style=for-the-badge)
-![Playwright](https://img.shields.io/badge/Playwright-%232EAD33.svg?style=for-the-badge&logo=playwright&logoColor=white)
-![Automation](https://img.shields.io/badge/Workflow-Automation-orange?style=for-the-badge)
+## 🤖 AI & Intelligent Systems
+![OpenAI](https://img.shields.io/badge/OpenAI-LLM_Integration-green?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-Framework-blue?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-Orchestration-purple?style=for-the-badge)
 
 ---
 
-### 🗄 Databases  
+## 🗄 Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
 
 ---
 
-## 🏆 Certifications  
+# 🏆 Certifications
+
+![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+![Salesforce Platform Developer](https://img.shields.io/badge/Salesforce-Platform_Developer_I-%2300A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
+
+![Salesforce Administrator](https://img.shields.io/badge/Salesforce-Administrator-%2300A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
 
 ![Salesforce Omnistudio Developer](https://img.shields.io/badge/Salesforce-Omnistudio_Developer-%2300A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![Salesforce Certified Administrator](https://img.shields.io/badge/Salesforce-Certified_Administrator-%2300A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![Salesforce Platform Developer](https://img.shields.io/badge/Salesforce-Platform_Developer-%2300A1E0?style=for-the-badge&logo=salesforce&logoColor=white)
-![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
 
-## 💡 Professional Highlights  
+# 💼 Professional Experience
 
-### **Accenture | Application Development Analyst**  
+### Accenture — Application Development Analyst
 
-- Engineered a **Data Migration Web Tool**, improving transfer efficiency by 30%.  
-- Built scalable **Java Spring Boot services and REST APIs**.  
-- Optimized database queries, increasing performance by 25%.  
-- Worked across backend engineering and Salesforce environments in enterprise systems.  
+Worked on enterprise-scale backend platforms across **Identity & Access Management and Life Sciences modernization systems.**
 
-### **AmpleSoftech Private Limited | Web Developer Intern**  
+Key contributions:
 
-- Developed responsive web applications improving mobile engagement by 20%.  
-- Designed user-centric interfaces for better cross-device experience.  
+- Built **Java microservices and REST APIs** for enterprise platforms
+- Automated **IAM lifecycle workflows** improving Day-1 access readiness
+- Designed **cloud-enabled data migration platform** for regulated data pipelines
+- Implemented **validation, retry logic, and failure handling** for large batch workflows
+- Integrated **AWS services for scalable processing and monitoring**
+- Improved **database performance by 25%** and **data transfer efficiency by 30%**
 
 ---
 
-## 📊 My GitHub Stats  
+# 🚀 Selected Projects
+
+### CloudHealth — Cloud Native Backend Platform
+
+Node.js • PostgreSQL • AWS • Terraform • Docker
+
+- Built cloud-native backend API deployed on **auto-scaling EC2 infrastructure**
+- Designed **VPC networking, load balancing, and database connection pooling**
+- Implemented **CI/CD pipeline with GitHub Actions**
+- Added **CloudWatch monitoring and observability dashboards**
+
+---
+
+### HomeBase — Property Management Platform
+
+Node.js • React • MongoDB • TypeScript
+
+- Built scalable backend API with **JWT authentication and role-based access**
+- Optimized MongoDB queries improving performance by **30%**
+- Implemented **real-time communication using WebSockets**
+
+---
+
+### Finley — AI Financial Recommendation System
+
+Python • Flask • LangChain • GPT-4o-mini
+
+- Built **6-stage AI workflow pipeline** for financial recommendations
+- Implemented **multi-path validation architecture**
+- Achieved **92–95% recommendation consistency** through structured validation logic
+
+---
+
+# 📊 GitHub Stats
 
 <p>
 <a href="https://github.com/sahared">
@@ -95,12 +148,13 @@ I enjoy designing clean APIs, building reliable backend services, and exploring 
 
 ---
 
-## 🌐 Connect With Me  
+# 🌐 Connect With Me
 
-- 📫 Email: [sahare.d@northeastern.edu](mailto:sahare.d@northeastern.edu)  
-- 💼 LinkedIn: [linkedin.com/in/dikshasahare](https://in.linkedin.com/in/dikshasahare)  
-- 🐙 GitHub: [github.com/sahared](https://github.com/sahared)  
+📫 sahare.d@northeastern.edu  
+💼 linkedin.com/in/dikshasahare  
+🐙 github.com/sahared
 
 ---
 
-⭐️ *Building software that is scalable, reliable, and intelligently engineered.*
+⭐ Building backend platforms and cloud systems designed to operate reliably at scale.
+
